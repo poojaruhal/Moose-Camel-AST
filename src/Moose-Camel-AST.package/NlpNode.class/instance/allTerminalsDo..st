@@ -1,0 +1,2 @@
+api - enumerating
+allTerminalsDo: aBlock
