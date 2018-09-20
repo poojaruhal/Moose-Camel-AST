@@ -5,8 +5,8 @@ Ast contains information about a sentence like how a sentence is constrcuted and
 how words are related to each other. It presents user with a visual tree having all the information about the sentence.
 
 # Prerequisites
-Pharo 5.0
-coreNLP 3.9
-Moose 6.1
+-Pharo 5.0
+-coreNLP 3.9
+-Moose 6.1
 
 #Install
