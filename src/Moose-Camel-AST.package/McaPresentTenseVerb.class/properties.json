@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AliakseiSyrel 7/14/2018 23:33",
+	"super" : "McaVerb",
+	"category" : "Moose-Camel-AST-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "McaPresentTenseVerb",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "McaDependency",
+	"category" : "Moose-Camel-AST-Dependencies",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "McaDependencyadvcl",
+	"type" : "normal"
+}

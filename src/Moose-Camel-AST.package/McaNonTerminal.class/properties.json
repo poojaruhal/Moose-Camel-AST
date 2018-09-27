@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "McaNode",
+	"category" : "Moose-Camel-AST-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nodes"
+	],
+	"name" : "McaNonTerminal",
+	"type" : "normal"
+}

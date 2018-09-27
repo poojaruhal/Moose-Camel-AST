@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "McaNodeVisitor",
+	"category" : "Moose-Camel-AST-Visitor",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nouns"
+	],
+	"name" : "McaNodeNounVisitor",
+	"type" : "normal"
+}

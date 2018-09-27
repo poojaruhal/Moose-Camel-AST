@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "McaPresentTenseVerb",
+	"category" : "Moose-Camel-AST-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "McaThirdPersonSingularPresentTenseVerb",
+	"type" : "normal"
+}
