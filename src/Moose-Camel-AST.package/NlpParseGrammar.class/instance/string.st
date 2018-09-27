@@ -1,3 +1,3 @@
 accessing
 string
-	^ (#word asParser /  { $: . $- . $" . $' . $? . $! . $` . $. . $$ . $| . $< . $> } asParser) plus flatten ==> #asSymbol
+	^ (#space asParser / { $( . $) } asParser) negate plus flatten ==> #asSymbol
