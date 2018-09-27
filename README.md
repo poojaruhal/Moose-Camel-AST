@@ -1,4 +1,4 @@
-# Nls-Ast
+# Moose-Camel-AST
 
 User can create Ast of a sentence written in natural language.
 Ast contains information about a sentence like how a sentence is constrcuted and also
