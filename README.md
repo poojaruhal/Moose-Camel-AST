@@ -9,4 +9,10 @@ how words are related to each other. It presents user with a visual tree having 
 -coreNLP 3.9
 -Moose 6.1
 
-#Install
+# Install
+```smalltalk
+Metacello new
+   baseline: 'CamelAST';
+   repository: 'github://poojaruhal65/Moose-Camel-AST/src';
+   load
+```
