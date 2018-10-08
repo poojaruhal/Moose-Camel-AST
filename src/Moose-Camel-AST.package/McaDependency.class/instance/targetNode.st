@@ -1,5 +1,5 @@
 accessing
 targetNode
-	<return: #NlpNode>
+	<return: #McaNode>
 
 	^ targetNode

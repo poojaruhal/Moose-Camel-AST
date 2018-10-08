@@ -1,5 +1,5 @@
 api - accessing
 nodes
-	<return: #Collection of: #NlpNode>
+	<return: #Collection of: #McaNode>
 
 	^ nodes

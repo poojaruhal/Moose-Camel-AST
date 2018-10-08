@@ -1,5 +1,5 @@
 api - dependencies
 dependencies
-	<return: #Collection of: #NlpDependency>
+	<return: #Collection of: #McaDependency>
 
 	^ dependencies

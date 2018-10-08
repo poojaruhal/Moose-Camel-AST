@@ -1,6 +1,6 @@
 accessing
 nouns
 	| aVisitor |
-	aVisitor := NlpNodeNounVisitor new.
+	aVisitor := McaNodeNounVisitor new.
 	self accept: aVisitor.
 	^ aVisitor nouns

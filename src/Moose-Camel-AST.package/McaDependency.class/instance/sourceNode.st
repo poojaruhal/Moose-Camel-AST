@@ -1,5 +1,5 @@
 accessing
 sourceNode
-	<return: #NlpNode>
+	<return: #McaNode>
 
 	^ sourceNode

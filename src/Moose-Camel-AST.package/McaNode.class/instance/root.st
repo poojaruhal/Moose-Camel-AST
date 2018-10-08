@@ -1,6 +1,6 @@
 api - accessing
 root
-	<return:#NlpNode>
+	<return:#McaNode>
 	
 	^ self hasParent 
 		ifTrue:[self parent root]
