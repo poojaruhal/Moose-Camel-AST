@@ -1,0 +1,1 @@
+I am a parser of "parse" part of the response from the CoreNLP service
