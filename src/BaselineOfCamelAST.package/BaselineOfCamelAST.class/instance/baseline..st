@@ -12,7 +12,7 @@ baseline: spec
 		spec project: 'Roassal' with: [
 			spec 
 				className: #ConfigurationOfRoassal;
-				versionString: #'stable';
+				versionString: #'development';
 				repository: 'http://smalltalkhub.com/mc/ObjectProfile/Roassal/main/';
 				loads: #(default) ].
 
