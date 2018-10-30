@@ -4,14 +4,14 @@ ast: aTerminalCollection from: aParseString
 	<return: #NlpRoot>
 
 	^ aParseString trim
-		ifEmpty: [ NlpRoot new ]
+		ifEmpty: [ McaRoot new ]
 		ifNotEmpty: [ :aTrimmedParseString |
 			| parseTree aRoot  aTerminalStack |
 			
-			[ parseTree := NlpParseGrammar new parse: aTrimmedParseString ]
+			[ parseTree := McaParseGrammar new parse: aTrimmedParseString ]
 				on: Exception do: [ :e | parseTree := #() ].
 
-			aRoot := NlpNonTerminal labelled: parseTree first.
+			aRoot := McaNonTerminal labelled: parseTree first.
 			aTerminalStack := aTerminalCollection as: Stack.
 
 			parseTree allButFirstDo: [ :aSubTree |

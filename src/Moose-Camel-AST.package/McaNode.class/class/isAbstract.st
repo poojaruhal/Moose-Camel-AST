@@ -1,3 +1,3 @@
 testing
 isAbstract
-	^ self = NlpNode
+	^ self = McaNode

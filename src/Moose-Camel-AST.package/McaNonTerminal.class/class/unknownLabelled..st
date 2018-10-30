@@ -1,3 +1,3 @@
 instance creation
 unknownLabelled: aString
-	^ NlpUnknownNonTerminal labelled: aString
+	^ McaUnknownNonTerminal labelled: aString
