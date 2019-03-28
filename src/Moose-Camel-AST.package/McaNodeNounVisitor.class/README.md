@@ -1,0 +1,1 @@
+I represent a noun visitor. I collect nouns from the sentence.

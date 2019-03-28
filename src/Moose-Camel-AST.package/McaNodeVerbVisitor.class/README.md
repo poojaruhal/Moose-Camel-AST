@@ -1,0 +1,1 @@
+I represent a verb visitor. I am responsibile for collecting terminals that are verb.

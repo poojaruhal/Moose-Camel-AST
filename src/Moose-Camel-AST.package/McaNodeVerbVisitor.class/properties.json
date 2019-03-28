@@ -1,13 +1,13 @@
 {
-	"commentStamp" : "PoojaRani 3/28/2019 10:14",
+	"commentStamp" : "PoojaRani 3/28/2019 10:15",
 	"super" : "McaNodeVisitor",
 	"category" : "Moose-Camel-AST-Visitor",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"nouns"
+		"verbs"
 	],
-	"name" : "McaNodeNounVisitor",
+	"name" : "McaNodeVerbVisitor",
 	"type" : "normal"
 }
