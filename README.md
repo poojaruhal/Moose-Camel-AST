@@ -13,6 +13,6 @@ how words are related to each other. It presents user with a visual tree having 
 ```smalltalk
 Metacello new
    baseline: 'CamelAST';
-   repository: 'github://poojaruhal65/Moose-Camel-AST/src';
+   repository: 'github://poojaruhal/Moose-Camel-AST/src';
    load
 ```
